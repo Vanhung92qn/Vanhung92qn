@@ -6,6 +6,14 @@
 <!-- Animated GIF Banner -->
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
+<!-- GitHub Stats với animation -->
+<div align="center" style="margin-top: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vanhung92qn&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&border_color=00D9FF&border_radius=10" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.demolab.com/?user=Vanhung92qn&theme=tokyonight&hide_border=false&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&border=00D9FF&border_radius=10" alt="GitHub Streak" />
+</div>
+
+<div align="center" style="margin-top: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vanhung92qn&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&border_color=00D9FF&border_radius=10&langs_count=8" alt="Top Languages" />
 </div>
 
 </div>
@@ -42,44 +50,75 @@
 <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,vscode,visualstudio,sublime,powershell" alt="os and ides icons" />
 
 </div>
+
+---
+
 ## 📱 Connect With Me
 
-<div align="center" style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center; margin-bottom: 20px;">
+<div align="center">
+
+### 🌐 Social Media & Communication
+
+<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 20px; flex-wrap: wrap; margin: 20px 0;">
 
 <a href="https://hovanhung.dev" target="_blank" title="Website">
-  <img src="https://raw.githubusercontent.com/Vanhung92qn/Vanhung92qn/main/icons/website.svg" alt="Website" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/Vanhung92qn/Vanhung92qn/main/icons/website.svg" alt="Website" width="50" height="50" style="transition: transform 0.3s;" />
 </a>
 
 <a href="https://www.facebook.com/HoVanHung.Me" target="_blank" title="Facebook">
-  <img src="https://raw.githubusercontent.com/Vanhung92qn/Vanhung92qn/main/icons/facebook.svg" alt="Facebook" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/Vanhung92qn/Vanhung92qn/main/icons/facebook.svg" alt="Facebook" width="50" height="50" style="transition: transform 0.3s;" />
 </a>
 
 <a href="https://www.instagram.com/vanhung92qn" target="_blank" title="Instagram">
-  <img src="https://raw.githubusercontent.com/Vanhung92qn/Vanhung92qn/main/icons/intagram.svg" alt="Instagram" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/Vanhung92qn/Vanhung92qn/main/icons/instagram.svg" alt="Instagram" width="50" height="50" style="transition: transform 0.3s;" />
 </a>
 
 <a href="https://www.youtube.com/@C50Modder" target="_blank" title="YouTube">
-  <img src="https://raw.githubusercontent.com/Vanhung92qn/Vanhung92qn/main/icons/youtube.svg" alt="YouTube" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/Vanhung92qn/Vanhung92qn/main/icons/youtube.svg" alt="YouTube" width="50" height="50" style="transition: transform 0.3s;" />
 </a>
 
 <a href="https://www.tiktok.com/@c50modder" target="_blank" title="TikTok">
-  <img src="https://raw.githubusercontent.com/Vanhung92qn/Vanhung92qn/main/icons/tiktok-logo.svg" alt="TikTok" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/Vanhung92qn/Vanhung92qn/main/icons/tiktok-logo.svg" alt="TikTok" width="50" height="50" style="transition: transform 0.3s;" />
 </a>
 
 <a href="mailto:vanhung92qn.vn@gmail.com" target="_blank" title="Email">
-  <img src="https://raw.githubusercontent.com/Vanhung92qn/Vanhung92qn/main/icons/word.svg" alt="Email" width="40" height="40" />
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
-<a href="#" title="WeChat: Vanhung92qn">
-  <img src="https://raw.githubusercontent.com/Vanhung92qn/Vanhung92qn/main/icons/wechat.svg" alt="WeChat" width="40" height="40" />
+<a href="#" target="_blank" title="WeChat: Vanhung92qn">
+  <img src="https://raw.githubusercontent.com/Vanhung92qn/Vanhung92qn/main/icons/wechat.svg" alt="WeChat" width="50" height="50" style="transition: transform 0.3s;" />
 </a>
 
-<a href="https://t.me/Vanhung92qn" target="_blank" title="Telegram">
-  <img src="https://raw.githubusercontent.com/Vanhung92qn/Vanhung92qn/main/icons/telegram.svg" alt="Telegram" width="40" height="40" />
+<a href="https://github.com/Vanhung92qn" target="_blank" title="GitHub">
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="50" height="50" style="transition: transform 0.3s;" />
 </a>
 
 </div>
 
+### 📄 Microsoft Office Suite
+
+<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 20px; flex-wrap: wrap; margin: 20px 0;">
+
+<a href="#" target="_blank" title="Microsoft Word">
+  <img src="https://raw.githubusercontent.com/Vanhung92qn/Vanhung92qn/main/icons/word.svg" alt="Word" width="50" height="50" style="transition: transform 0.3s;" />
+</a>
+
+<a href="#" target="_blank" title="Microsoft Excel">
+  <img src="https://raw.githubusercontent.com/Vanhung92qn/Vanhung92qn/main/icons/excel.svg" alt="Excel" width="50" height="50" style="transition: transform 0.3s;" />
+</a>
+
+<a href="#" target="_blank" title="Microsoft PowerPoint">
+  <img src="https://raw.githubusercontent.com/Vanhung92qn/Vanhung92qn/main/icons/powerpoint.svg" alt="PowerPoint" width="50" height="50" style="transition: transform 0.3s;" />
+</a>
+
+<a href="#" target="_blank" title="Microsoft Office 365">
+  <img src="https://raw.githubusercontent.com/Vanhung92qn/Vanhung92qn/main/icons/office-2013.svg" alt="Office 365" width="50" height="50" style="transition: transform 0.3s;" />
+</a>
+
+</div>
+
+</div>
+---
 
 ## 📊 GitHub Analytics
 
@@ -96,57 +135,54 @@
 
 
 
-## ⚡️ GitHub Stats Summary
+## ⚡️ GitHub Statistics
 
 <div align="center">
 
-### 📊 Detailed Statistics
+### 📈 Overview Stats
 
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=Vanhung92qn&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&border_color=00D9FF" alt="GitHub Stats" />
-    </td>
-    <td align="center" width="50%">
-      <img src="https://github-readme-streak-stats.demolab.com/?user=Vanhung92qn&theme=tokyonight&hide_border=false&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&border=00D9FF" alt="GitHub Streak" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vanhung92qn&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&border_color=00D9FF" alt="Top Languages" />
-    </td>
-    <td align="center" width="50%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vanhung92qn&theme=tokyonight&border_color=00D9FF" alt="Profile Details" />
-    </td>
-  </tr>
-</table>
+<div align="center" style="margin-bottom: 30px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vanhung92qn&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&border_color=00D9FF&border_radius=10&custom_title=GitHub%20Statistics" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.demolab.com/?user=Vanhung92qn&theme=tokyonight&hide_border=false&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&border=00D9FF&border_radius=10" alt="GitHub Streak" />
+</div>
 
-### 🎯 Performance Metrics
+### 💻 Top Languages & Activity
 
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vanhung92qn&theme=tokyonight&border_color=00D9FF" alt="Stats" />
-    </td>
-    <td align="center" width="33%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vanhung92qn&theme=tokyonight&border_color=00D9FF" alt="Repos per Language" />
-    </td>
-    <td align="center" width="33%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Vanhung92qn&theme=tokyonight&border_color=00D9FF" alt="Productive Time" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="33%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vanhung92qn&theme=tokyonight&border_color=00D9FF" alt="Most Commit Language" />
-    </td>
-    <td align="center" width="33%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/achievements?username=Vanhung92qn&theme=tokyonight&border_color=00D9FF" alt="Achievements" />
-    </td>
-    <td align="center" width="33%">
-      <img src="https://github-contributor-stats.vercel.app/api?username=Vanhung92qn&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&border_color=00D9FF" alt="Contributor Stats" />
-    </td>
-  </tr>
-</table>
+<div align="center" style="margin-bottom: 30px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vanhung92qn&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&border_color=00D9FF&border_radius=10&langs_count=8" alt="Top Languages" />
+</div>
+
+### 📊 Detailed Analytics
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vanhung92qn&theme=tokyonight&border_color=00D9FF&border_radius=10" alt="Profile Details" />
+
+</div>
+
+<div align="center" style="margin-top: 20px; display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; max-width: 1200px;">
+
+<div>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vanhung92qn&theme=tokyonight&border_color=00D9FF&border_radius=10" alt="Stats" />
+</div>
+
+<div>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vanhung92qn&theme=tokyonight&border_color=00D9FF&border_radius=10" alt="Repos per Language" />
+</div>
+
+<div>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Vanhung92qn&theme=tokyonight&border_color=00D9FF&border_radius=10" alt="Productive Time" />
+</div>
+
+<div>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vanhung92qn&theme=tokyonight&border_color=00D9FF&border_radius=10" alt="Most Commit Language" />
+</div>
+
+<div>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/achievements?username=Vanhung92qn&theme=tokyonight&border_color=00D9FF&border_radius=10" alt="Achievements" />
+</div>
+
+</div>
 
 </div>
 
