@@ -137,14 +137,5 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!+%F0%9F%91%8B;Feel+free+to+explore+my+repositories+%F0%9F%92%BB;Happy+Coding!+%E2%9C%A8)](https://git.io/typing-svg)
 
-![Visitor Count](https://profile-counter.glitch.me/Vanhung92qn/count.svg)
 
 </div>
-
-<!-- Footer với animation -->
-<div align="center" style="margin-top: 20px; padding-bottom: 20px;">
-
-<img src="https://raw.githubusercontent.com/Vanhung92qn/Vanhung92qn/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-
-</div>
-
