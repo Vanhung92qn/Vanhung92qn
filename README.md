@@ -6,7 +6,7 @@
 <!-- Animated GIF Banner -->
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
-<!-- GitHub Stats với animation -->
+<!-- GitHub Stats với animation
 <div align="center" style="margin-top: 20px;">
   <img src="https://github-readme-stats.vercel.app/api?username=Vanhung92qn&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&border_color=00D9FF&border_radius=10" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.demolab.com/?user=Vanhung92qn&theme=tokyonight&hide_border=false&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&border=00D9FF&border_radius=10" alt="GitHub Streak" />
@@ -14,7 +14,7 @@
 
 <div align="center" style="margin-top: 10px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vanhung92qn&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&border_color=00D9FF&border_radius=10&langs_count=8" alt="Top Languages" />
-</div>
+</div> -->
 
 </div>
 
@@ -70,7 +70,7 @@
 </a>
 
 <a href="https://www.instagram.com/vanhung92qn" target="_blank" title="Instagram">
-  <img src="https://raw.githubusercontent.com/Vanhung92qn/Vanhung92qn/main/icons/instagram.svg" alt="Instagram" width="50" height="50" style="transition: transform 0.3s;" />
+  <img src="https://raw.githubusercontent.com/Vanhung92qn/Vanhung92qn/main/icons/intagram.svg" alt="Instagram" width="50" height="50" style="transition: transform 0.3s;" />
 </a>
 
 <a href="https://www.youtube.com/@C50Modder" target="_blank" title="YouTube">
@@ -82,7 +82,7 @@
 </a>
 
 <a href="mailto:vanhung92qn.vn@gmail.com" target="_blank" title="Email">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <img src="https://raw.githubusercontent.com/Vanhung92qn/Vanhung92qn/main/icons/email.svg" alt="Email" width="50" height="50" style="transition: transform 0.3s;" />
 </a>
 
 <a href="#" target="_blank" title="WeChat: Vanhung92qn">
