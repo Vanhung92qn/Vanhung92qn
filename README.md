@@ -1,75 +1,169 @@
-<!-- PREMIUM GITHUB PROFILE — VERSION 2 (Optimized) -->
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&weight=700&size=28&duration=4000&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=H%C3%99NG+-+Developer+%7C+Game+Modder;Reverse+Engineer+%7C+Unity+%26+Cocos+Creator;Spine+2D+Animator+%7C+Tool+Builder;Welcome+to+my+GitHub+Profile!+🚀" />
-</p>
+<!-- Banner với animation -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Full+Stack+Developer;Passionate+about+Code+%26+Innovation" alt="Typing SVG" />
 
-<p align="center">
-  <img src="https://github.com/Vanhung92qn.png" width="130" style="border-radius:50%;box-shadow:0 0 25px #00eaff;" />
-</p>
+<!-- Animated GIF Banner -->
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
-<h1 align="center">⚡ Hồ Văn Hùng — Developer • Game Modder • Reverse Engineer ⚡</h1>
-
----
-
-### 🔹 About
-- Chuyên: **Game Modding, Unity, Cocos Creator, Spine 2D, Shader & Asset Mod, Tool Automation, Network Filtering, Reverse Engineering**
-- Stack & tools mình hay dùng: xem mục Tech Stack bên dưới.
-
----
-
-### 🛠️ Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,js,lua,unity,nodejs,vue,react,mongodb,mysql,redis,cloudflare,nginx,apache,gitlab,github,ps,pr,ai" alt="tech icons" />
-  <img src="https://img.shields.io/badge/Cocos%20Creator-3DC36F?style=for-the-badge" alt="Cocos Creator" />
-  <img src="https://img.shields.io/badge/Spine-2D-FF6F61?style=for-the-badge" alt="Spine 2D" />
-</p>
-
----
-
-### 📈 Premium GitHub Stats (Giao diện đẹp hơn)
-<!-- Bố cục card: 3 cards nằm ngang, theme đậm, border radius -->
-<div align="center" style="display:flex;gap:14px;align-items:center;justify-content:center;flex-wrap:wrap;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vanhung92qn&show_icons=true&theme=tokyonight&hide_border=true&card_width=420&count_private=true" height="170" style="border-radius:12px;box-shadow:0 8px 30px rgba(2,6,23,0.6);" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vanhung92qn&layout=compact&theme=tokyonight&hide_border=true&card_width=330" height="170" style="border-radius:12px;box-shadow:0 8px 30px rgba(2,6,23,0.6);" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vanhung92qn&repo=AntiCheat-Firewall&theme=tokyonight&hide_border=true" height="170" style="border-radius:12px;box-shadow:0 8px 30px rgba(2,6,23,0.6);" />
 </div>
 
-<p align="center" style="margin-top:12px;font-size:13px;color:#999;">Tip: thay đổi `theme` (tokyonight, radical, merko, dracula...) hoặc `card_width` để tùy biến giao diện.</p>
+</div>
+
+## 🛠️ Tech Stack & Tools
+
+<div align="center">
+
+### Programming Languages & Frameworks
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,python,js,lua,nodejs,vue,react" alt="tech icons" />
+
+### Game Development
+<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 15px; flex-wrap: wrap;">
+  <img src="https://skillicons.dev/icons?i=unity" alt="unity icon" />
+  <a href="https://esotericsoftware.com/" target="_blank" title="Spine 2D">
+    <img src="https://raw.githubusercontent.com/Vanhung92qn/Vanhung92qn/main/icons/spine_logo_dark.svg" alt="Spine 2D" height="45" />
+  </a>
+  <a href="https://www.cocos.com/en/creator" target="_blank" title="Cocos Creator">
+    <img src="https://raw.githubusercontent.com/Vanhung92qn/Vanhung92qn/main/icons/cocoscreator.svg" alt="Cocos Creator" height="45" />
+  </a>
+</div>
+
+### Databases & Cloud
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,redis,cloudflare" alt="database icons" />
+
+### Web Servers & DevOps
+<img src="https://skillicons.dev/icons?i=nginx,gitlab,github" alt="devops icons" />
+<br>
+
+### Design Tools
+<img src="https://skillicons.dev/icons?i=ps,pr,ai" alt="design icons" />
+
+### Operating Systems & IDEs
+<img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,vscode,visualstudio,sublime,powershell" alt="os and ides icons" />
+
+</div>
+## 📱 Connect With Me
+
+<div align="center" style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center; margin-bottom: 20px;">
+
+<a href="https://hovanhung.dev" target="_blank" title="Website">
+  <img src="https://raw.githubusercontent.com/Vanhung92qn/Vanhung92qn/main/icons/website.svg" alt="Website" width="40" height="40" />
+</a>
+
+<a href="https://www.facebook.com/HoVanHung.Me" target="_blank" title="Facebook">
+  <img src="https://raw.githubusercontent.com/Vanhung92qn/Vanhung92qn/main/icons/facebook.svg" alt="Facebook" width="40" height="40" />
+</a>
+
+<a href="https://www.instagram.com/vanhung92qn" target="_blank" title="Instagram">
+  <img src="https://raw.githubusercontent.com/Vanhung92qn/Vanhung92qn/main/icons/intagram.svg" alt="Instagram" width="40" height="40" />
+</a>
+
+<a href="https://www.youtube.com/@C50Modder" target="_blank" title="YouTube">
+  <img src="https://raw.githubusercontent.com/Vanhung92qn/Vanhung92qn/main/icons/youtube.svg" alt="YouTube" width="40" height="40" />
+</a>
+
+<a href="https://www.tiktok.com/@c50modder" target="_blank" title="TikTok">
+  <img src="https://raw.githubusercontent.com/Vanhung92qn/Vanhung92qn/main/icons/tiktok-logo.svg" alt="TikTok" width="40" height="40" />
+</a>
+
+<a href="mailto:vanhung92qn.vn@gmail.com" target="_blank" title="Email">
+  <img src="https://raw.githubusercontent.com/Vanhung92qn/Vanhung92qn/main/icons/word.svg" alt="Email" width="40" height="40" />
+</a>
+
+<a href="#" title="WeChat: Vanhung92qn">
+  <img src="https://raw.githubusercontent.com/Vanhung92qn/Vanhung92qn/main/icons/wechat.svg" alt="WeChat" width="40" height="40" />
+</a>
+
+<a href="https://t.me/Vanhung92qn" target="_blank" title="Telegram">
+  <img src="https://raw.githubusercontent.com/Vanhung92qn/Vanhung92qn/main/icons/telegram.svg" alt="Telegram" width="40" height="40" />
+</a>
+
+</div>
+
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<!-- GitHub Contribution Graph -->
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vanhung92qn&theme=tokyo-night&hide_border=false&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF)
+
+<!-- GitHub Trophies -->
+![trophy](https://github-profile-trophy.vercel.app/?username=Vanhung92qn&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=2&column=4)
+
+</div>
+
+
+
+
+## ⚡️ GitHub Stats Summary
+
+<div align="center">
+
+### 📊 Detailed Statistics
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=Vanhung92qn&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&border_color=00D9FF" alt="GitHub Stats" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-readme-streak-stats.demolab.com/?user=Vanhung92qn&theme=tokyonight&hide_border=false&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&border=00D9FF" alt="GitHub Streak" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vanhung92qn&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&border_color=00D9FF" alt="Top Languages" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vanhung92qn&theme=tokyonight&border_color=00D9FF" alt="Profile Details" />
+    </td>
+  </tr>
+</table>
+
+### 🎯 Performance Metrics
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vanhung92qn&theme=tokyonight&border_color=00D9FF" alt="Stats" />
+    </td>
+    <td align="center" width="33%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vanhung92qn&theme=tokyonight&border_color=00D9FF" alt="Repos per Language" />
+    </td>
+    <td align="center" width="33%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Vanhung92qn&theme=tokyonight&border_color=00D9FF" alt="Productive Time" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vanhung92qn&theme=tokyonight&border_color=00D9FF" alt="Most Commit Language" />
+    </td>
+    <td align="center" width="33%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/achievements?username=Vanhung92qn&theme=tokyonight&border_color=00D9FF" alt="Achievements" />
+    </td>
+    <td align="center" width="33%">
+      <img src="https://github-contributor-stats.vercel.app/api?username=Vanhung92qn&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&border_color=00D9FF" alt="Contributor Stats" />
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ---
 
-### 🔔 Trophies & Visitors
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Vanhung92qn&theme=gruvbox&no-frame=true&row=1&column=7" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Vanhung92qn&icon=6&color=1" />
-</p>
+### ⭐️ From [Vanhung92qn](https://github.com/Vanhung92qn)
 
----
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!+%F0%9F%91%8B;Feel+free+to+explore+my+repositories+%F0%9F%92%BB;Happy+Coding!+%E2%9C%A8)](https://git.io/typing-svg)
 
-### 💬 Contact
-<p align="center">
-  <a href="https://www.facebook.com/HoVanHung.Me">Facebook</a> •
-  <a href="https://www.instagram.com/vanhung92qn">Instagram</a> •
-  <a href="mailto:vanhung92qn.vn@gmail.com">Email</a> •
-  <a href="https://www.tiktok.com/@c50modder">TikTok</a> •
-  <a href="https://www.youtube.com/@C50Modder">YouTube</a>
-</p>
+</div>
 
 ---
 
-### ✨ Ghi chú & hướng dẫn nhanh
-- Mình đã **gộp Tech Stack thành một hàng** như bạn yêu cầu.
-- Đổi logo Cocos và Spine sang **badges (shields.io)** để tránh lỗi loading logo; nếu bạn có URL icon chính thức ổn định mình sẽ thay vào ngay.
-- Mình đã làm **GitHub Stats đẹp hơn**: 3 cards, bo góc, bóng nhẹ. Muốn theme khác (ví dụ `merko`, `radical`, `dracula`) hoặc muốn 2 cards + 1 gif animation, mình chỉnh tiếp.
+<!-- Footer với animation -->
+<div align="center">
 
----
-
-##### Muốn mình commit trực tiếp vào repo profile của bạn (hoặc tạo pull request với README đã chỉnh sẵn)? Nói "commit giúp" + cấp quyền repo công khai (hoặc cho link) — mình sẽ hướng dẫn các bước an toàn để bạn tự làm hoặc làm PR mẫu.
-
-
-<!-- END -->
+</div>
 
