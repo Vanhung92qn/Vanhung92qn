@@ -110,5 +110,15 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!+%F0%9F%91%8B;Feel+free+to+explore+my+repositories+%F0%9F%92%BB;Happy+Coding!+%E2%9C%A8)](https://git.io/typing-svg)
 
+---
+
+👋 Hi, I’m **Van Hung** (@Vanhung92qn)
+
+🌱 Currently learning **C / C++ / Objective-C / Swift**  
+🛠️ Not a “real” developer—just someone who copies things from the Internet and somehow makes them work on my machine.  
+😄 But every bug fixed is one lesson learned.
+
+✨ Though I may be ordinary among many,  
+I’m still the **one and only version of me** in this world.
 
 </div>
