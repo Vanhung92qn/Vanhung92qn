@@ -22,34 +22,29 @@
 
 <div align="center">
 
-### Programming Languages & Frameworks
-<img src="https://skillicons.dev/icons?i=c,cpp,cs,python,js,lua,nodejs,vue,react" alt="tech icons" />
+<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 20px; flex-wrap: wrap;">
 
-### Game Development
-<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 15px; flex-wrap: wrap;">
-  <img src="https://skillicons.dev/icons?i=unity" alt="unity icon" />
+  <!-- Programming Languages -->
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs" height="50" />
+
+  <!-- Spine 2D -->
   <a href="https://esotericsoftware.com/" target="_blank" title="Spine 2D">
-    <img src="https://raw.githubusercontent.com/Vanhung92qn/Vanhung92qn/main/icons/spine_logo_dark.svg" alt="Spine 2D" height="45" />
+    <img src="https://raw.githubusercontent.com/Vanhung92qn/Vanhung92qn/main/icons/spine_logo_dark.svg" height="50" />
   </a>
+
+  <!-- Cocos Creator -->
   <a href="https://www.cocos.com/en/creator" target="_blank" title="Cocos Creator">
-    <img src="https://raw.githubusercontent.com/Vanhung92qn/Vanhung92qn/main/icons/cocoscreator.svg" alt="Cocos Creator" height="45" />
+    <img src="https://raw.githubusercontent.com/Vanhung92qn/Vanhung92qn/main/icons/cocoscreator.svg" height="50" />
   </a>
+
+  <!-- Cloud & Tools -->
+  <img src="https://skillicons.dev/icons?i=cloudflare,vscode,visualstudio" height="50" />
+
 </div>
 
-### Databases & Cloud
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,redis,cloudflare" alt="database icons" />
-
-### Web Servers & DevOps
-<img src="https://skillicons.dev/icons?i=nginx,gitlab,github" alt="devops icons" />
-<br>
 
 ### Design Tools
 <img src="https://skillicons.dev/icons?i=ps,pr,ai" alt="design icons" />
-
-### Operating Systems & IDEs
-<img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,vscode,visualstudio,sublime,powershell" alt="os and ides icons" />
-
-</div>
 
 ---
 
@@ -91,28 +86,6 @@
 
 <a href="https://github.com/Vanhung92qn" target="_blank" title="GitHub" style="display: inline-block; transition: transform 0.3s ease;">
   <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="40" height="40" style="transition: transform 0.3s ease, filter 0.3s ease;" />
-</a>
-
-</div>
-
-### 📄 Microsoft Office Suite
-
-<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 60px; flex-wrap: wrap; margin: 40px 0; padding: 30px;">
-
-<a href="#" target="_blank" title="Microsoft Word" style="display: inline-block; transition: transform 0.3s ease;">
-  <img src="https://raw.githubusercontent.com/Vanhung92qn/Vanhung92qn/main/icons/word.svg" alt="Word" width="40" height="40" style="transition: transform 0.3s ease, filter 0.3s ease;" />
-</a>
-
-<a href="#" target="_blank" title="Microsoft Excel" style="display: inline-block; transition: transform 0.3s ease;">
-  <img src="https://raw.githubusercontent.com/Vanhung92qn/Vanhung92qn/main/icons/excel.svg" alt="Excel" width="40" height="40" style="transition: transform 0.3s ease, filter 0.3s ease;" />
-</a>
-
-<a href="#" target="_blank" title="Microsoft PowerPoint" style="display: inline-block; transition: transform 0.3s ease;">
-  <img src="https://raw.githubusercontent.com/Vanhung92qn/Vanhung92qn/main/icons/powerpoint.svg" alt="PowerPoint" width="40" height="40" style="transition: transform 0.3s ease, filter 0.3s ease;" />
-</a>
-
-<a href="#" target="_blank" title="Microsoft Office 365" style="display: inline-block; transition: transform 0.3s ease;">
-  <img src="https://raw.githubusercontent.com/Vanhung92qn/Vanhung92qn/main/icons/office-2013.svg" alt="Office 365" width="40" height="40" style="transition: transform 0.3s ease, filter 0.3s ease;" />
 </a>
 
 </div>
